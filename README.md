@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Justin Dennis Sauquillo and I'm a Developer, from Makati</h2>
+<img src="https://github.com/JDennisovich/JDennisovich/blob/main/Green%20Modern%20Corporate%20Personal%20Vlog%20YouTube%20Banner.png" height="500" alt="banner">
 
 ###
 
@@ -6,6 +6,14 @@
   <img src="https://github-readme-stats.vercel.app/api?username=JDennisovich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
   
 ###
+
+<h1 align="center">Welcome 👋</h1>
+<h3 align="left">👩‍💻  About Me</h3>
+<p align="left">I'm Justin Dennis Sauquillo from Makati<br><br>- 🔭 I’m a Student Developer working part time as a freelancer<br>- 📚 I'm currently studying in Centro Escolar University Makati<br>- ⚡ I like to play games and ride bicycles in my free time</p>
+
+
+
+I'm an aspring Fullstack developer that aims to be successful in the industry. All project that are in my account are projects that are given by professor to enhance my ability. Future projects will also be uploaded once publishe
 
 <img align="right" height="150" src="https://tenor.com/sUw0EzdiBJX.gif"  />
 
@@ -29,6 +37,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" height="30" alt="django logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" height="30" alt="github logo"  />
+  <img witdth="12"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg" height="30" alt="node logo"  />
 </div>
 
 ###
@@ -42,7 +52,7 @@
 </div>
 
 ###
-
+<br clear="both">
 <img src="https://raw.githubusercontent.com/JDennisovich/JDennisovich/output/snake.svg" alt="Snake animation" />
 
 ###
