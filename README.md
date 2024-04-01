@@ -43,8 +43,6 @@ href="https://www.youtube.com/channel/UCxYkHRCQg0IdUdwuZzfQtFA" height="35" alt=
 
 ###
 
-<br clear="both">
-
 <img src="https://raw.githubusercontent.com/JDennisovich/JDennisovich/output/snake.svg" alt="Snake animation" />
 
 ###
