@@ -1,4 +1,4 @@
-<img src="https://github.com/JDennisovich/JDennisovich/blob/main/Green%20Modern%20Corporate%20Personal%20Vlog%20YouTube%20Banner.png" height="500" alt="banner">
+<img align="center" src="https://github.com/JDennisovich/JDennisovich/blob/main/Green%20Modern%20Corporate%20Personal%20Vlog%20YouTube%20Banner.png" height="500" alt="banner">
 
 ###
 
