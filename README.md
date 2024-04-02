@@ -7,7 +7,7 @@
   
 ###
 
-<h1 align="center">Welcome 👋</h1>
+<h1 align="center">Welcome to my profile 👋</h1>
 <h3 align="left">👩‍💻  About Me</h3>
 <p align="left">I'm Justin Dennis Sauquillo from Makati<br><br>- 🔭 I’m a Student Developer working part time as a freelancer<br>- 📚 I'm currently studying in Centro Escolar University Makati<br>- ⚡ I like to play games and ride bicycles in my free time</p>
 
