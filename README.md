@@ -4,6 +4,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=JDennisovich&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img  height="150" src="https://github.com/JDennisovich/JDennisovich/blob/main/dancing-toothless-v0-1slf8g1ed4ac1.gif"  />
   
 ###
 
@@ -15,7 +16,6 @@
 
 I'm an aspring Fullstack developer that aims to be successful in the industry. All project that are in my account are projects that are given by professor to enhance my ability. Future projects will also be uploaded once publishe
 
-<img align="right" height="150" src="https://tenor.com/sUw0EzdiBJX.gif"  />
 
 ###
 
